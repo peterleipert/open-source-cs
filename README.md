@@ -91,3 +91,13 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Cyber Threats and Attack Vectors](https://www.coursera.org/learn/cyber-threats-attack-vectors) | UC | 3 weeks | 4 hours/week | self-paced | Introduction to Cybersecurity for Business
 [Detecting and Mitigating Cyber Threats and Attacks](https://www.coursera.org/learn/detecting-cyber-attacks) | UC | 3 weeks | 4 hours/week | self-paced | Cyber Threats and Attack Vectors
 [Proactive Computer Security](https://www.coursera.org/learn/proactive-computer-security) | UC | 3 weeks | 4 hours/week | self-paced | Detecting and Mitigating Cyber Threats and Attacks
+
+
+##Python
+
+Learn to Program: The Fundamentals (Coursera)
+Learn to Program: Crafting Quality Code (Coursera)
+Python for Everybody specialization (4 courses in Coursera)
+Introduction to Computer Science and Programming Using Python (edX) OR CS50 (edX)
+Introduction to Computational Thinking and Data Science (edX)
+Design of computer programming using python (udacity)

@@ -29,7 +29,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
-
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week | twice a month | none
@@ -91,7 +90,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 [Cyber Threats and Attack Vectors](https://www.coursera.org/learn/cyber-threats-attack-vectors) | UC | 3 weeks | 4 hours/week | self-paced | Introduction to Cybersecurity for Business
 [Detecting and Mitigating Cyber Threats and Attacks](https://www.coursera.org/learn/detecting-cyber-attacks) | UC | 3 weeks | 4 hours/week | self-paced | Cyber Threats and Attack Vectors
 [Proactive Computer Security](https://www.coursera.org/learn/proactive-computer-security) | UC | 3 weeks | 4 hours/week | self-paced | Detecting and Mitigating Cyber Threats and Attacks
-
 
 ##Python
 
